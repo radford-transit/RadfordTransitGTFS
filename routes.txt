@@ -1,0 +1,9 @@
+route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+10,10,University Express,"Serves Radford University’s campus, Dedmon Center, Greenhill Apartments, The Armstrong Complex, and New River Drive.",3,http://www.radfordtransit.com/route-10/,D1212B,FFFFFF
+15,15,University Highlander,"Provides service to Radford University’s campus, Dedmon Center, Greenhill, Highland Village, and The Hub.",3,http://www.radfordtransit.com/route-15/,D1212B,FFFFFF
+20,20,New River Rapid,"Provides service from Radford and Central Campus to Food Lion and Auburn Avenue, as well as Walmart and Kroger in Fairlawn.",3,http://www.radfordtransit.com/route-20/,F15A2A,FFFFFF
+30,30,Cross City,"Serves West Radford, Recreation Center, and Downtown Main Street.",3,http://www.radfordtransit.com/route-30/,13592D,FFFFFF
+31,31,Cross City,"Serves West Radford, Recreation Center, and Downtown Main Street.",3,http://www.radfordtransit.com/route-30/,8EC640,FFFFFF
+40,40,NRV Connect,"Provides service to the Christiansburg Aquatic Center, NRV Mall, and Squires Student Center in Blacksburg.",3,http://www.radfordtransit.com/route-40/,5A3695,FFFFFF
+50,50,Highlander Circulator,"Provides service to East Campus, Burlington Lot, and connection to the Hub.",3,http://www.radfordtransit.com/route-50/,1C75BC,FFFFFF
+60,60,South Beech Express,"Serves Copper Beech, University Campus, and Tyler Avenue.",3,http://www.radfordtransit.com/route-60/,EE237C,FFFFFF

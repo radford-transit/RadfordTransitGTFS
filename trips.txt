@@ -1,0 +1,2 @@
+route_id,service_id,trip_id
+10,REGULAR_M_W,10_REGULAR_M_W

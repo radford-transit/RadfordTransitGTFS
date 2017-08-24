@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_fare_url
+RT,Radford Transit,http://www.radfordtransit.com,America/New_York,http://www.radfordtransit.com/fares/

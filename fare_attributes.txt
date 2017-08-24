@@ -1,0 +1,7 @@
+fare_id,price,currency_type,transfers,payment_method
+RU_ID,0.00,USD,0,0
+FULL,1.00,USD,1,0
+SENIOR,0.00,USD,0,0
+DISABILITY,0.00,USD,0,0
+PASS,20.00,USD,0,1
+CHILD,0.00,USD,0,1
