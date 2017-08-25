@@ -1,0 +1,127 @@
+stop_id,stop_code,stop_name,stop_lat,stop_lon,wheelchair_boarding
+WILSON_DAVIS,,"Wilson St/Davis St",37.13288,-80.545068,1
+CBURG_MILLER,,"Christiansburg Bound Miller St.",37.13841,-80.41248,1
+RADFORD_MILLER,,"Radford Bound Miller Street",37.13821,-80.41244,1
+FAIRFAX_STATION,,"Fairfax Station",37.136008,-80.548167,1
+1,1,"Greenhill Apartments",37.14502,-80.54988,1
+2,2,"New River Dr",37.143501,-80.547671,1
+4,4,"Armstrong",37.140652,-80.547226,1
+5,5,"Lot A",37.13867,-80.54876,1
+6,6,"The Bonnie",37.136435,-80.547174,1
+7,7,"Waldron Hall",37.13527,-80.54932,1
+8,8,"Moffett Hall",37.135868,-80.55272,1
+9,9,"Walker Hall",37.137902,-80.55293,1
+10,10,"Muse Hall",37.139812,-80.553205,1
+11,11,"The HUB",37.14144,-80.55353,1
+12,12,"Lot C",37.140848,-80.550944,1
+13,13,"University Dr Bridge",37.140445,-80.546884,1
+14,14,"University Dr/Lot CC",37.14005,-80.5434,1
+15,15,"Dedmon Center Upper",37.137813,-80.541658,1
+16,16,"Dedmon Center Riverside",37.139381,-80.541543,1
+17,17,"University Dr/Pulaski Ave",37.140131,-80.543362,1
+18,18,"Lot FF",37.142236,-80.546589,1
+19,19,"Greenhill Clubhouse",37.143771,-80.547751,1
+20,20,"Main St/Virginia St",37.14107,-80.556724,1
+21,21,"Taco Inn (Westbound)",37.139728,-80.563906,1
+22,22,"Main St/CVS (Westbound)",37.137377,-80.569455,1
+23,23,"Kroger",37.14133,-80.58143,1
+24,24,"Walmart",37.152282,-80.584038,1
+26,26,"Main St/Public Library (Eastbound)",37.137284,-80.569443,1
+27,27,"Taco Inn (Eastbound)",37.139628,-80.563855,1
+28,28,"Main St/Virginia St (Eastbound)",37.14095,-80.556973,1
+31,31,"Calhoun St/Tyler Ave",37.135861,-80.553247,1
+34,34,"Jeffries Dr",37.10631,-80.57985,1
+35,35,"Riverbend Apts",37.108251,-80.584782,1
+36,36,"2nd St/Highland Ave",37.10886,-80.588281,1
+37,37,"Main St/Cowan St (Eastbound)",37.109527,-80.590098,1
+38,38,"Deli Mart (Eastbound)",37.112205,-80.589975,1
+39,39,"Main St/Custis St (Eastbound)",37.115712,-80.5903,1
+40,40,"Main St/Denby St (Eastbound)",37.119681,-80.59024,1
+41,41,"Main St/Carter St (Eastbound)",37.124979,-80.587961,1
+42,42,"Main St/Preston St (Eastbound)",37.127616,-80.584936,1
+43,43,"Main St/Staples St (Eastbound)",37.129395,-80.582293,1
+44,44,"Main St/Robertson St (Eastbound)",37.130514,-80.580609,1
+45,45,"Main St/Kent St (Eastbound)",37.133434,-80.576292,1
+46,46,"Main St/Randolph St (Eastbound)",37.134885,-80.573692,1
+47,47,"Preston St/4th St",37.1253,-80.582389,1
+48,48,"Preston St/7th St",37.122834,-80.579804,1
+49,49,"Preston St/Lyle St",37.120337,-80.57574,1
+50,50,"Preston St/12th St",37.119806,-80.574667,1
+51,51,"Staples St/12th St",37.11994,-80.57181,1
+52,52,"Staples St/PT Travis Ave",37.117882,-80.569621,1
+53,53,"Staples St/Rock Rd",37.115707,-80.567347,1
+54,54,"Wadsworth St/Heather Glen Dr",37.118279,-80.564365,1
+55,55,"Willow Woods Apts",37.120882,-80.562081,1
+56,56,"Allen Ave/Wadsworth St",37.12056,-80.562859,1
+57,57,"Wadsworth St/Sheppard Ave",37.120571,-80.566772,1
+58,58,"Wadsworth St/Roosevelt Ave",37.123291,-80.569612,1
+59,59,"Wadsworth St/8th St",37.126074,-80.572472,1
+60,60,"Randolph St/8th St",37.128733,-80.568409,1
+61,61,"Randolph St/7th St",37.129581,-80.568941,1
+62,62,"6th St/Scott St",37.13194,-80.567427,1
+63,63,"Park Rd/Sundell Dr",37.129335,-80.562435,1
+64,64,"George St (to Rec Center)",37.131049,-80.557033,1
+65,65,"Rec Center",37.132299,-80.560736,1
+66,66,"2nd Ave/Lawrence St",37.135502,-80.55593,1
+67,67,"3rd Ave/Fairfax St",37.13667,-80.55772,1
+68,68,"3rd Ave/Downey St",37.13892,-80.5581,1
+69,69,"Main St/Randolph St (Westbound)",37.135077,-80.573605,1
+70,70,"Main St/Kent St (Westbound)",37.133377,-80.576555,1
+71,71,"Main St/Robertson St (Westbound)",37.130778,-80.580373,1
+72,72,"Main St/Wirt St (Westbound)",37.128692,-80.583537,1
+73,73,"3rd Ave/Downey St",37.138783,-80.558221,1
+74,74,"3rd Ave/Fairfax St",37.136515,-80.557819,1
+75,75,"Lawrence St/2nd Ave",37.135701,-80.555816,1
+76,76,"2nd Ave/George St",37.131091,-80.556564,1
+77,77,"Park Rd/Sundell Dr",37.129381,-80.562384,1
+78,78,"6th St/Scott St",37.13197,-80.567533,1
+79,79,"Randolph St/8th St",37.128996,-80.568535,1
+80,80,"Wadsworth St/8th St",37.125735,-80.572375,1
+81,82,"Wadsworth St/Roosevelt Ave",37.123292,-80.569752,1
+82,82,"Wadsworth St/Sheppard Ave",37.120603,-80.566923,1
+83,83,"Allen Ave/Wadsworth St",37.119303,-80.565301,1
+84,84,"Wadsworth St/Heather Glen Dr",37.118101,-80.564261,1
+85,85,"Staples St/Rock Rd",37.115734,-80.567284,1
+86,86,"Staples St/PT Travis Ave",37.117821,-80.569471,1
+87,87,"Staples St/12th St",37.12003,-80.571758,1
+88,88,"Preston St/12th St",37.119929,-80.574426,1
+89,89,"Preston St/Lyle St",37.120481,-80.575724,1
+90,90,"Preston St/7th St",37.122984,-80.579784,1
+91,91,"Preston St/4th St",37.125449,-80.582369,1
+92,92,"Preston St/Alley b Soc Serv",37.12743,-80.5844,1
+93,93,"Main St/Carter St (Westbound)",37.124867,-80.588233,1
+94,94,"Main St/Denby St (Westbound)",37.119656,-80.590379,1
+95,95,"Main St/Custis St (Westbound)",37.115839,-80.59042,1
+96,96,"Deli Mart (Westbound)",37.111953,-80.590284,1
+97,97,"Main St/Cowan St (Westbound)",37.109475,-80.590154,1
+98,98,"Jeffries Dr Midhill",37.107482,-80.58112,1
+99,99,"Regal Cinemas",37.164203,-80.429057,1
+100,100,"NRV Mall",37.165714,-80.428501,1
+102,102,"Squires Student Center",37.229841,-80.418535,1
+103,103,"Bburg Municipal Building",37.227578,-80.412183,1
+107,107,"Burlington Lot",37.13385,-80.54108,1
+108,108,"Burlington St/Clement St",37.133889,-80.542577,1
+109,109,"Burlington St/Fairfax St",37.133098,-80.543081,1
+110,110,"Fairfax St/Wilson St",37.133594,-80.544303,1
+111,111,"Calhoun St/Wilson St",37.132397,-80.546164,1
+112,112,"Calhoun St/Madison St",37.133306,-80.547795,1
+113,113,"Food Lion Plaza",37.128871,-80.546081,1
+114,114,"Auburn Ave/Cedar Ridge Dr.",37.12661,-80.54164,1
+115,115,"Ridgewood Lane",37.124032,-80.542646,1
+116,116,"Auburn Ave/Villa Trailer Park",37.124234,-80.540091,1
+117,117,"Auburn Ave/Tyler Ave",37.123531,-80.537058,1
+118,118,"Best Western",37.125905,-80.538836,1
+119,119,"Tyler Ave/Auburn Ave",37.128235,-80.541609,1
+120,120,"Tyler Ave/Milton Ln",37.129322,-80.545809,1
+121,121,"Main St/Madison St",37.136865,-80.54431,1
+122,122,"Main St/Burlington St",37.135744,-80.5421,1
+123,123,"Burlington St/Clement St",37.133878,-80.542584,1
+124,124,"Clement St/Whitehall St",37.132821,-80.540343,1
+125,125,"Copper Beech",37.129697,-80.55625,1
+126,126,"Miller St (Exit)",37.130725,-80.556213,1
+127,127,"Fulk Dr",37.150483,-80.584018,1
+128,128,"Miller St Entrance",37.130767,-80.556536,1
+129,129,"Kyle Hall",37.133704,-80.550521,1
+130,130,"George St",37.130978,-80.557103,1
+131,131,"Lot CC/Shelter",37.140117,-80.546483,1
+132,132,"Lot CC/Stadium Gates",37.1395,-80.545283,1
