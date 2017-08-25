@@ -2,12 +2,11 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon,wheelchair_boarding
 WILSON_DAVIS,,"Wilson St/Davis St",37.13288,-80.545068,1
 CBURG_MILLER,,"Christiansburg Bound Miller St.",37.13841,-80.41248,1
 RADFORD_MILLER,,"Radford Bound Miller Street",37.13821,-80.41244,1
-FAIRFAX_STATION,,"Fairfax Station",37.136008,-80.548167,1
 1,1,"Greenhill Apartments",37.14502,-80.54988,1
 2,2,"New River Dr",37.143501,-80.547671,1
 4,4,"Armstrong",37.140652,-80.547226,1
 5,5,"Lot A",37.13867,-80.54876,1
-6,6,"The Bonnie",37.136435,-80.547174,1
+6,6,"Fairfax Station",37.136008,-80.548167,1
 7,7,"Waldron Hall",37.13527,-80.54932,1
 8,8,"Moffett Hall",37.135868,-80.55272,1
 9,9,"Walker Hall",37.137902,-80.55293,1
